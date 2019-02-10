@@ -1,2 +1,2 @@
-# github.io
-Jur
+# viktorferment.github.io
+Jur`s website
