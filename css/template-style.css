@@ -59,7 +59,11 @@ nav ul li ul li {
 #fourth-block p {
 	color: #fff;
 }
-#first-block, #second-block, #third-block, #fourth-block {
+#first-block {
+	text-align: center;
+	padding: 0.5rem 0;
+}
+#second-block, #third-block, #fourth-block {
 	text-align: center;
 	padding: 4.5rem 0;
 }
@@ -209,7 +213,7 @@ form.customform input, form.customform select, form.customform textarea {
 }
 @media screen and (max-width: 768px) {
   body {
-  	background: none repeat scroll 0 0 rgb(0, 30, 34);
+  	background: url("../img/background.jpg") no-repeat fixed center center / 100% auto rgba(0, 0, 0, 0);
   }
   nav {
   	background: none repeat scroll 0 0 rgb(0, 30, 34);
