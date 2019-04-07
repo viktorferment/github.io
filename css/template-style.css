@@ -79,6 +79,11 @@ nav ul li ul li {
 #third-block {
 	background: #fff;
 }
+#third-block2 {
+	background: #fff;
+	padding: = 2rem;
+	text-align: center;
+}
 #fourth-block {
 	background: rgb(0, 30, 34);
 }
@@ -213,7 +218,7 @@ form.customform input, form.customform select, form.customform textarea {
 }
 @media screen and (max-width: 768px) {
   body {
-  	background: url("../img/background.jpg") no-repeat fixed center center / 100% auto rgba(0, 0, 0, 0);
+  	background: url("../img/background.jpg") no-repeat fixed top / 100% auto rgba(0, 0, 0, 0);
   }
   nav {
   	background: none repeat scroll 0 0 rgb(0, 30, 34);
@@ -230,7 +235,7 @@ form.customform input, form.customform select, form.customform textarea {
   	line-height: 3rem;
   }
   .top-nav .logo {
-  	padding: 1.25rem;
+  	padding: 0.25rem;
   }
   .carousel-text h2 {
   	font-size: 1.3rem;
