@@ -1,2 +1,2 @@
 # viktorferment.github.io
-Jur`s website
+Skadium Stuidios concept website
